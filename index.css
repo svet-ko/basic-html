@@ -1,0 +1,21 @@
+.header_link {
+  font-style: italic;
+}
+
+.table {
+  display: table;
+  border-collapse: separate;
+  box-sizing: border-box;
+  text-align: center;
+  border: 2px solid rgb(110, 112, 233);
+  border-spacing: 5px;
+  width: 200px;
+}
+
+.td {
+  border: 1px solid rgb(110, 112, 233);
+}
+
+.footer {
+  margin-top: 0.83em;
+}
